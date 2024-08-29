@@ -1,0 +1,34 @@
+Python A Language
+
+syntax errors - talking to python - A syntax error does not mean that the computer hates you.  It simply means that is cannot understand
+what you are telling it to do.
+
+There are reserved words in python - meaning you cannot use them as variable names or identifiers.  The reserved words are listed below:
+
+		False		None		True
+		
+		and		as		assert
+
+		break		class		if
+
+		def		del		elif
+
+		else		except		return
+
+		for		from		global
+
+		try		import		in
+
+		is		lambda		while
+
+		not		or		pass
+
+		raise		finally		continue
+
+		non local	with		yield
+
+
+
+		
+
+		
