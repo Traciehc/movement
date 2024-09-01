@@ -1,0 +1,9 @@
+﻿Movement
+GitBash - GitHub
+  
+
+  Introduction
+  
+This is a project where I am practicing movement from command line to local repository and then to remote repository.
+I will add this file to an existing local repository titled movement,  that I have cloned from the remote repository.  I will practice moving my changes and additions to the remote. 
+At this point in time, I have practiced navigating between different file folders within the command line by changing the directory where my project is housed.  I however have still had some issues with opening a file within the folder in the command prompt.  I will continue to try to get more comfortable within the terminal executing the git commands.
